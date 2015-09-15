@@ -1,2 +1,2 @@
 # cat_laser
-lasers for cats
+repetitive game to distract you from being productive
