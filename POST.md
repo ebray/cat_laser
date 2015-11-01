@@ -1,7 +1,7 @@
 # cat_laser
 Understanding the developer ecosystem:
 
-I am a furnituremaker by trade and a very young 5 years into all things technical.  As I broaden my view across what encompasses this vast ecosystem, I find myself jumping around, burrowing down into the weeds, and pouncing on any given particular concept or point...behavior I can only liken it to watching a cat chase a laser pointer.
+I am a furnituremaker by trade and a very young 5 years into all things technical.  As I broaden my view across what encompasses this vast ecosystem, I find myself jumping around, burrowing down into the weeds, and pouncing on any given particular concept or point...behavior I can only liken to watching a cat chase a laser pointer.
 
 And I'm sure it's just as amusing to anyone well versed in application developement and developer tooling.  
 
