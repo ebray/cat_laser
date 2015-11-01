@@ -8,6 +8,7 @@ And I'm sure it's just as amusing to anyone well versed in application developem
 So be it.  As long as it takes, I guess.
 
 Some notable moments in my discovery:
+    
     "Wait, there are files on my mac that are hidden from me?  Wow.  So why are they all the most important ones?!?"
     
     "Man, I'm gonna look so cool at the coffee shop when someone looks over and sees I have Terminal and Atom PINNNED to my         dock."
