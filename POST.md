@@ -15,12 +15,12 @@ Some notable moments in my discovery:
     
     "Man, it be cooler if I knew how to use Terminal and Atom that are pinned to my dock."
     
-    "FRIEND: Object oriented code is written for humans, not computers.  It has to be translated to binary for a computer to        understand.  
+    FRIEND: Object oriented code is written for humans, not computers.  It has to be translated to binary for a computer to         understand.  
     ME: Who does that?  
     FRIEND: The computer.    
     ME: I thought you said it can't read code.
     FRIEND: It can't.  Don't worry about it.  Just know that code is for humans.
-    ME: Sure, for humans.  I've never talked like that in my life.  This guy, with the 'for humans' shit."
+    ME: Sure, for humans.  I've never talked like that in my life.  This guy, with the 'for humans' shit.
     
     "I copied it exactly as it is; why doesn't it work?!? ....oh, wait.  Oh, that's...I see...So I just need to change....what      the F*%#K is camel case?"
     
